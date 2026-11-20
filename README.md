@@ -100,7 +100,7 @@ A predictive modeling notebook (classification of no-shows), with these points c
 ├── requirements.txt                # dependencies (pip)
 ├── pyproject.toml                  # dependencies (Poetry)
 ├── .gitignore
-├── KaggleV2-May-2016.csv           # included, download from Kaggle
+├── KaggleV2-May-2016.csv           # included or download from Kaggle
 └── README.md
 ```
 
